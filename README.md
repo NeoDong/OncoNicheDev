@@ -9,10 +9,10 @@ Extracting developmental programs surrounding driver gene with NMF algorithm and
 of each program (code in NMF/)
 
 # Step 3
-Comparing the effects of developmental programs on the efficiency of communication between driver genes and downstream transcription factors
+Comparing the effects of developmental programs on the efficiency of communication between driver genes and downstream transcription factors (code in network communication/)
 
 # Step 4
-Gene regulatory network analysis of influenced transcription factors
+Gene regulatory network analysis of influenced transcription factors (code in GRN/)
 
 
 
