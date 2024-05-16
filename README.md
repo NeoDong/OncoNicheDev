@@ -5,7 +5,7 @@ A pipine to analyzing the link between development programs and cancer type-spec
 Identification of driver gene-centered protein-protein interaction subnetwork (code in subnetwork/)
 
 # Step 2
-Extracting developmental programs surrounding driver gene with NMF algorithm and t esting the cancer type-specificity 
+Extracting developmental programs surrounding driver gene with NMF algorithm and testing the cancer type-specificity 
 of each program (code in NMF/)
 
 # Step 3
