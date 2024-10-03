@@ -15,6 +15,6 @@ Comparing the effects of developmental programs on the efficiency of communicati
 Gene regulatory network analysis of influenced transcription factors (code in GRN/)
 
 # References
-Dong, X., et al. (2024). [Network modeling links kidney developmental programs and the cancer type-specificity of VHL mutations] (https://www.nature.com/articles/s41540-024-00445-2). npj Systems Biology and Applications 10(1): 114.
+Dong, X., et al. (2024). [Network modeling links kidney developmental programs and the cancer type-specificity of VHL mutations](https://www.nature.com/articles/s41540-024-00445-2). npj Systems Biology and Applications 10(1): 114.
 
 
