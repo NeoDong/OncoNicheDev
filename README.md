@@ -14,5 +14,7 @@ Comparing the effects of developmental programs on the efficiency of communicati
 # Step 4
 Gene regulatory network analysis of influenced transcription factors (code in GRN/)
 
+# References
+Dong, X., et al. (2024). Network modeling links kidney developmental programs and the cancer type-specificity of VHL mutations. npj Systems Biology and Applications 10(1): 114.
 
 
