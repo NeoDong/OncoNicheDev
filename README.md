@@ -3,6 +3,7 @@ A computational framework for analyzing the link between development programs an
 
 ![image](https://raw.githubusercontent.com/NeoDong/OncoNicheDev/refs/heads/main/img/OncoNicheDev%20workflow.webp)
 
+
 # Step 1
 Identification of driver gene-centered protein-protein interaction subnetwork (code in subnetwork/)
 
@@ -16,7 +17,10 @@ Comparing the effects of developmental programs on the efficiency of communicati
 # Step 4
 Gene regulatory network analysis of influenced transcription factors (code in GRN/)
 
+
 # References
+If you find our approach helpful, please cite:
+
 Dong, X., et al. (2024). [Network modeling links kidney developmental programs and the cancer type-specificity of VHL mutations](https://www.nature.com/articles/s41540-024-00445-2). npj Systems Biology and Applications 10(1): 114.
 
 
